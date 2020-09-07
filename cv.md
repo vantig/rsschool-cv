@@ -56,6 +56,29 @@ which I can fully realize myself and my ideas.
 ---
 
 
+
+
+
+
+### 📕 **EDUCATION HISTORY**
+
+####    STEP COMPUTER ACADEMY ,MINSK ####
+
+- *Vice President, Programming Club*
+
+- *Member, Video Game Society*
+
+- *Member, Student IT Helpdesk*
+
+#### SCHOOL №1,MINSK ####
+
+- *English Olympiad participant*
+- *Member of the Math Team*
+- *Сaptain of the volleyball and handball team*
+
+---
+
+
 ### 📕 **SKILLS**
 
 - ***English** Intermediate*
@@ -65,14 +88,6 @@ which I can fully realize myself and my ideas.
 - *The ability to analyze complex
 technical information*
 - *Sociability,soft skills*
-
-
-
-
----
-
-
-
 
 [tg]: https://t.me/vantig9
 [github]:https://github.com/vantig
