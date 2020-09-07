@@ -1,7 +1,7 @@
 # **Ivan Gordeychik**
 
 
-## I'm a Husband, Father, Developer, and Teacher!
+
 
 
 
