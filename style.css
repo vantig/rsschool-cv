@@ -1,0 +1,51 @@
+body {
+    max-width: 1024px;
+    margin: 30px auto;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1024px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+h3 {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.myPhoto {
+    float: left;
+    margin-right: 5px;
+    margin-top: 5px;
+    border-radius: 6px;
+}
+
+.top {
+    height: 280px;
+    width: 100%;
+    background-color: rgb(26, 72, 199);
+}
+
+.me {
+    margin-top: 5px;
+    text-align: left;
+    color: white;
+    font-size: 54px;
+}
+
+.info {
+    font-size: 15px;
+}
+
+.contacts {
+    margin-left: 255px;
+}
